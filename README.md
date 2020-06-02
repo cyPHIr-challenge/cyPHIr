@@ -20,3 +20,4 @@ plain_text = main.decode(a, b)
 * Read https://en.wikipedia.org/wiki/Diophantine_approximation for some more details about Diophantine approximation.
 * No, I am not a numerologist etc. I just chose φ because this makes the mathematics far simpler.
 * Any other questions, email cyphir.challenge@gmail.com
+* There is a small monetary prize, and if you solve it fast enough, it's nearly minimum wage!
